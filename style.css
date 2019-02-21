@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+
+i{
+  color: white;
+}
+
+.ui.borderless.socialmedia.menu{
+  background-color: black;
+  border: none;
+  box-shadow: none;
+
+}
+
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.menu .item{
+  color: white;
+  font-size: 15px;
+}
